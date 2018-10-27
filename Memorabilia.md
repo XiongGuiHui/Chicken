@@ -11,5 +11,10 @@
 
 <img src="img/eat-2.jpg" alt="drawing" width="200"></img>
 
-<!-- ![](./img/eat-2.jpg ) -->
+26:
 
+<img src="img/eat-3.jpg" alt="drawing" width="300"></img>
+
+27:
+
+<img src="img/eat-4.jpg" alt="drawing" width="300"></img>
