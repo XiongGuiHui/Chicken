@@ -40,4 +40,5 @@
 | 挂面    | 4     | hxs  |
 | 豆瓣酱   | 3     | hxs  |
 | 洗衣粉   | 4.5   | hxs  |
+| food ingridients| 41.8| hxs|
 
